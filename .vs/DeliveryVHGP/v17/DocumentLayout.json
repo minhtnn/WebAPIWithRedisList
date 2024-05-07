@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\N.Minh- ADMIN\\Documents\\VisualStudio\\DeliveryVHGPWithBaseRedis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD933B7B-57A0-43AE-A034-89251BDEE4F6}|DeliveryVHGP\\DeliveryVHGP.csproj|c:\\users\\n.minh- admin\\documents\\visualstudio\\deliveryvhgpwithbaseredis\\deliveryvhgp\\services\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD933B7B-57A0-43AE-A034-89251BDEE4F6}|DeliveryVHGP\\DeliveryVHGP.csproj|solutionrelative:deliveryvhgp\\services\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD933B7B-57A0-43AE-A034-89251BDEE4F6}|DeliveryVHGP\\DeliveryVHGP.csproj|C:\\Users\\N.Minh- ADMIN\\Documents\\VisualStudio\\DeliveryVHGPWithBaseRedis\\deliveryvhgp\\controllers\\shipperscontrollerasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD933B7B-57A0-43AE-A034-89251BDEE4F6}|DeliveryVHGP\\DeliveryVHGP.csproj|solutionrelative:deliveryvhgp\\controllers\\shipperscontrollerasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD933B7B-57A0-43AE-A034-89251BDEE4F6}|DeliveryVHGP\\DeliveryVHGP.csproj|C:\\Users\\N.Minh- ADMIN\\Documents\\VisualStudio\\DeliveryVHGPWithBaseRedis\\deliveryvhgp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD933B7B-57A0-43AE-A034-89251BDEE4F6}|DeliveryVHGP\\DeliveryVHGP.csproj|solutionrelative:deliveryvhgp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD933B7B-57A0-43AE-A034-89251BDEE4F6}|DeliveryVHGP\\DeliveryVHGP.csproj|C:\\Users\\N.Minh- ADMIN\\Documents\\VisualStudio\\DeliveryVHGPWithBaseRedis\\deliveryvhgp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD933B7B-57A0-43AE-A034-89251BDEE4F6}|DeliveryVHGP\\DeliveryVHGP.csproj|solutionrelative:deliveryvhgp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\N.Minh- ADMIN\\Documents\\VisualStudio\\DeliveryVHGPWithBaseRedis\\DeliveryVHGP\\appsettings.json",
+              "RelativeDocumentMoniker": "DeliveryVHGP\\appsettings.json",
+              "ToolTip": "C:\\Users\\N.Minh- ADMIN\\Documents\\VisualStudio\\DeliveryVHGPWithBaseRedis\\DeliveryVHGP\\appsettings.json",
+              "RelativeToolTip": "DeliveryVHGP\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-30T13:48:00.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\N.Minh- ADMIN\\Documents\\VisualStudio\\DeliveryVHGPWithBaseRedis\\DeliveryVHGP\\Program.cs",
+              "RelativeDocumentMoniker": "DeliveryVHGP\\Program.cs",
+              "ToolTip": "C:\\Users\\N.Minh- ADMIN\\Documents\\VisualStudio\\DeliveryVHGPWithBaseRedis\\DeliveryVHGP\\Program.cs",
+              "RelativeToolTip": "DeliveryVHGP\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T10:18:47.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShippersControllerAsync.cs",
+              "DocumentMoniker": "C:\\Users\\N.Minh- ADMIN\\Documents\\VisualStudio\\DeliveryVHGPWithBaseRedis\\DeliveryVHGP\\Controllers\\ShippersControllerAsync.cs",
+              "RelativeDocumentMoniker": "DeliveryVHGP\\Controllers\\ShippersControllerAsync.cs",
+              "ToolTip": "C:\\Users\\N.Minh- ADMIN\\Documents\\VisualStudio\\DeliveryVHGPWithBaseRedis\\DeliveryVHGP\\Controllers\\ShippersControllerAsync.cs",
+              "RelativeToolTip": "DeliveryVHGP\\Controllers\\ShippersControllerAsync.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwDAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T10:17:05.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CacheService.cs",
+              "DocumentMoniker": "C:\\Users\\N.Minh- ADMIN\\Documents\\VisualStudio\\DeliveryVHGPWithBaseRedis\\DeliveryVHGP\\Services\\CacheService.cs",
+              "RelativeDocumentMoniker": "DeliveryVHGP\\Services\\CacheService.cs",
+              "ToolTip": "C:\\Users\\N.Minh- ADMIN\\Documents\\VisualStudio\\DeliveryVHGPWithBaseRedis\\DeliveryVHGP\\Services\\CacheService.cs",
+              "RelativeToolTip": "DeliveryVHGP\\Services\\CacheService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:34:09.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
